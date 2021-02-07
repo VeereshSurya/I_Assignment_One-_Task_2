@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## See demo [Here](https://task-2-image-data.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
